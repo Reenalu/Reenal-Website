@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Just IT Software Development/Week 2 CSS/css-portfolio"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Final Project-Online Portfolio"
+  }
+}
